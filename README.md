@@ -1,0 +1,2 @@
+# WordGuessGame
+Hangman type game
